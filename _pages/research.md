@@ -1,8 +1,7 @@
 ---
 permalink: /research/
 title: "Research"
-author_profile: true
-author: research
+author_profile: false
 ---
 
 ## Job Market Paper
