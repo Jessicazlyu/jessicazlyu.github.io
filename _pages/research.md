@@ -35,7 +35,7 @@ The total battery capacity on California's grid increased tenfold from 2021 to 2
 
 Transmission Outages, Wholesale Electricity Prices, and Interregional Transfer Capability
 
-<details style="margin-bottom: 1.5em;">
+<details style="margin-bottom: 1em;">
   <summary><strong>Abstract</strong></summary>
 
   <p>
@@ -47,7 +47,7 @@ Transmission capability on an electric grid can change constantly, affecting ele
 
 Rethinking Cost Components of Retail Electricity Prices: A Panel Regression Approach 
 
-<details style="margin-bottom: 1.5em;">
+<details style="margin-bottom: 1em;">
   <summary><strong>Abstract</strong></summary>
 
   <p>
