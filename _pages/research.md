@@ -18,7 +18,7 @@ Multiple national-scale electricity transmission studies have pointed out that e
 
 
 
-## Working Papers
+## Working Paper
 
 Effects of Charging and Discharging of Battery Storage on California’s Wholesale Electricity Prices (under review)
 
