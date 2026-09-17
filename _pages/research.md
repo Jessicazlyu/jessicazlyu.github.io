@@ -6,7 +6,7 @@ author_profile: true
 
 ## Job Market Paper
 
-Electricity Transmission Lines and Land Development in the Pacific Northwest [(Latest version)](/files/Lyu_JMP.pdf)
+Electricity Transmission Lines and Land Development in the Pacific Northwest [(Latest version)](/files/Lyu_JMP_ROW.pdf)
 
 <details>
   <summary><strong>Abstract</strong></summary>
@@ -44,7 +44,8 @@ Transmission capability on an electric grid can change constantly, affecting ele
 </details>
 
 
-Rethinking Cost Components of Retail Electricity Prices: A Panel Regression Approach (draft available upon request)
+
+Rethinking Cost Components of Retail Electricity Prices: A Panel Regression Approach 
 
 <details>
   <summary><strong>Abstract</strong></summary>
