@@ -6,7 +6,8 @@ author_profile: false
 
 <img src="/images/CT_Pic.png"
      alt="Research"
-     style="width:100%; height:auto; display:block; margin:0 auto 2em auto;">
+     style="float:right; width:30%; max-width:320px; height:auto; margin:0 0 1.5em 2em;">
+
 
      
 
