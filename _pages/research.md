@@ -4,6 +4,12 @@ title: "Research"
 author_profile: false
 ---
 
+<img src="/images/CT_Pic.png"
+     alt="Research"
+     style="width:100%; height:auto; display:block; margin:0 auto 2em auto;">
+
+     
+
 ## Job Market Paper
 
 Electricity Transmission Lines and Land Development in the Pacific Northwest [(Latest version)](/files/Lyu_JMP_ROW.pdf)
