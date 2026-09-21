@@ -9,7 +9,7 @@ redirect_from:
 
 Hello, I am a PhD candidate in economics at UC Davis Department of Economics. 
 
-I am an energy economist who studies electricity markets and the electric power industry. My research combines detailed administrative and market data with applied econometric methods, economic history, and institutional knowledge of electric utilities and organized power markets. My research fields are energy and environmental economics, applied microeconomics, and economic history.
+I am an applied economist who studies the electric power industry and electricity markets. My research combines detailed administrative and market data with applied econometric methods, economic history, and institutional knowledge of electric utilities and organized power markets. My research fields are energy and environmental economics, applied microeconomics, and economic history.
 
 In my job market paper, I address a timely yet timeless question: How can we build more electricity transmission lines, and how can we build them faster? I approach this question by studying the acquisition of transmission line rights-of-way, focusing on transmission lines built by the Bonneville Power Administration (BPA) from 1938 to the early 1940s in Washington State. I estimate the long-run impact of having a right-of-way on parcel values and calculate the annual rates of return that could compensate for the resulting losses in parcel values. My results provide important insights for the design of electricity transmission policy. You can find my job market paper [here](/files/Lyu_JMP_ROW.pdf). 
 
