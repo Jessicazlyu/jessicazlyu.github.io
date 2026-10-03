@@ -17,5 +17,5 @@ My other two dissertation chapters study the effects of charging and discharging
 
 I am on the 2026-2027 job market. 
 
-[CV](/files/Lyu_CV.pdf) | [jzlyu@ucdavis.edu](mailto:jzlyu@ucdavis.edu)
+[CV](/files/Lyu_CV_1002.pdf) | [jzlyu@ucdavis.edu](mailto:jzlyu@ucdavis.edu)
 
