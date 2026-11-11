@@ -18,6 +18,8 @@ World Economic History [ECN111B] (Christopher Meissner). Winter 2025, Winter 202
 
 U.S. Economic History [ECN110B] (Christopher Meissner, Spring 2024; Santiago Perez, Winter 2023). 
 
+
+
 ### Teaching Assistant (University of International Business and Economics)
 
 *Honors Undergraduate Course:*
