@@ -13,7 +13,7 @@ author_profile: false
 
 ## Job Market Paper
 
-Electricity Transmission Lines and Land Development in the Pacific Northwest [(Latest version)](/files/Lyu_JMP_ROW_Nov1.pdf)
+Electricity Transmission Lines and Land Development in the Pacific Northwest [(Latest version)](/files/Lyu_JMP_ROW_Nov10.pdf)
 
 <details>
   <summary><strong>Abstract</strong></summary>
