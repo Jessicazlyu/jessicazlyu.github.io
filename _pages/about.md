@@ -9,7 +9,7 @@ redirect_from:
 
 Hello, I am a PhD candidate in economics at UC Davis Department of Economics. 
 
-I am an energy economist who studies the electric power industry and electricity markets. My research combines applied econometric methods with transmission line right-of-way public records, spatial property assessment data, electricity market data, and institutional knowledge of electric utilities and organized power markets. My research fields are energy and environmental economics, applied microeconomics, and economic history.
+I am an energy economist who studies the electric power industry and electricity markets. My research combines applied econometric methods with transmission line right-of-way public records, spatial property assessment data, electricity market data, and institutional knowledge of electric utilities and organized power markets. My research fields are energy and environmental economics, applied microeconomics, and economic history. 
 
 In my job market paper, I address a timely yet timeless question: How can we build more electricity transmission lines, and how can we build them faster? I approach this question by studying the acquisition of transmission line rights-of-way, focusing on transmission lines built by the Bonneville Power Administration (BPA) from 1938 to the early 1940s in Washington State. I estimate the long-run impact of having a right-of-way on parcel values and calculate the annual rate of return that could fully compensate for the resulting long-run losses in parcel values. My results provide important insights for the design of electricity transmission policy. You can find my job market paper [here](/files/Lyu_JMP_ROW_Nov10.pdf) ([a reduced-size version is here](/files/Lyu_JMP_ROW_Nov10_rdsize1.pdf)). 
 
@@ -17,5 +17,8 @@ My other two dissertation chapters study the effects of charging and discharging
 
 I am on the 2026-2027 job market. 
 
-[CV](/files/Lyu_CV_Nov05.pdf) | [jzlyu@ucdavis.edu](mailto:jzlyu@ucdavis.edu)
-
+<div style="font-size: 2em;">
+  <a href="/files/Lyu_CV_Nov05.pdf">CV</a>
+  &nbsp; | &nbsp;
+  <a href="mailto:jzlyu@ucdavis.edu">jzlyu@ucdavis.edu</a>
+</div>
