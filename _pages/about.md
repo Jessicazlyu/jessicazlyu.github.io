@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a PhD candidate in the Department of Economics at the University of California, Davis (UC Davis).
+Hello, I am a PhD candidate in economics at the University of California, Davis Department of Economics. 
 
 I am an energy economist who studies the electric power industry and electricity markets. My research combines applied econometric methods with transmission line right-of-way public records, spatial property assessment data, electricity market data, and institutional knowledge of electric utilities and organized power markets. My research fields are energy and environmental economics, applied microeconomics, and economic history. 
 
@@ -17,7 +17,7 @@ My other two dissertation chapters study the effects of charging and discharging
 
 I am on the 2026-2027 job market. 
 
-<div style="font-size: 1.2em;">
+<div style="font-size: 1.1em;">
   <a href="/files/Lyu_CV_Nov05.pdf">CV</a>
   &nbsp; | &nbsp;
   <a href="mailto:jzlyu@ucdavis.edu">jzlyu@ucdavis.edu</a>
