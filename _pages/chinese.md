@@ -1,6 +1,6 @@
 ---
 permalink: /chinese/
-title: "中文"
+title: ""
 author_profile: false
 ---
 
